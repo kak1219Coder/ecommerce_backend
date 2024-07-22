@@ -24,3 +24,4 @@ public function down()
 {
     Schema::dropIfExists('image_produits');
 }
+};
